@@ -1,6 +1,7 @@
 new files created
 lets write something in it
 lets add new line 
+<<<<<<< Updated upstream
 
 <<<<<<< HEAD
 roll 
@@ -11,3 +12,7 @@ roll
 >>>>>>> parent of 2d246f9... for demo,test,testmaster
 =======
 >>>>>>> parent of e3b157a... 	modified:   demo.txt
+=======
+lets check stash function
+this is another page for stash again 
+>>>>>>> Stashed changes
