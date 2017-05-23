@@ -1,5 +1,6 @@
 this is new world 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9,6 +10,9 @@ this is new world
 >>>>>>> parent of 2d246f9... for demo,test,testmaster
 =======
 >>>>>>> parent of e3b157a... 	modified:   demo.txt
+=======
+this is for stash 
+>>>>>>> Stashed changes
 =======
 this is for stash 
 >>>>>>> Stashed changes
