@@ -1,13 +1,2 @@
 new files created
 lets write something in it
-lets add new line 
-
-<<<<<<< HEAD
-roll 
-<<<<<<< HEAD
-1 
-11 
-=======
->>>>>>> parent of 2d246f9... for demo,test,testmaster
-=======
->>>>>>> parent of e3b157a... 	modified:   demo.txt
