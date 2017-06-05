@@ -36,3 +36,5 @@ index.html
 
 #skip .txt	
 *.txt
+#skip 
+test.txt
