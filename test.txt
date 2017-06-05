@@ -1,3 +1,4 @@
  hi test txt file 
  teest agian txt 
 testing ignore 
+ignore test in test file 
