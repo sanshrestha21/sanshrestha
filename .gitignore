@@ -35,6 +35,6 @@ node_modules
 index.html
 
 #skip .txt	
-*.txt
+#*.txt
 #skip 
-test.txt
+#test.txt
