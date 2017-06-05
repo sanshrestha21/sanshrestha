@@ -1,12 +1,1 @@
-one day a wolf jump upon the jackle
-when that fox start running than the jackle was so nervous that she didn't know .what's going on 
- 
-<<<<<<< HEAD
-roll 
-<<<<<<< HEAD
-2 
-22
-=======
->>>>>>> parent of 2d246f9... for demo,test,testmaster
-=======
->>>>>>> parent of e3b157a... 	modified:   demo.txt
+ hi test txt file 
