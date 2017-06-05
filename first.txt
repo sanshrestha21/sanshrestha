@@ -1,0 +1,6 @@
+<<<<<<< first.txt
+first try 
+=======
+third try 
+>>>>>>> third.txt
+this is stash first 
