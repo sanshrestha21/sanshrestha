@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+f0df296820b45762a4882ee0f77487ba348e9bf8 refs/heads/feature
+34077fbe3b23e222a96c788036bc84df52ec326d refs/heads/master
+b482c7d88dc5dc3c93ea371da2daf7d79b0afc56 refs/heads/rapping
+041113455df4754254f83a7377a6793fa5093bef refs/heads/tempo-branch
+0c577a8836197fc1845cb55d4015968da98d355b refs/heads/testbranch
+9488e277b4f461adfa54724b669dbbff5c667d6d refs/heads/testbranch_file
+0c577a8836197fc1845cb55d4015968da98d355b refs/heads/teststash
