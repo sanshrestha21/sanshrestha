@@ -1,0 +1,54 @@
+<<<<<<< demo.txt
+<<<<<<< demo.txt
+<<<<<<< demo.txt
+new files created
+lets write something in it
+<<<<<<< Updated upstream
+=======
+one day a wolf jump upon the jackle
+when that fox start running than the jackle was so nervous that she didn't know .what's going on 
+>>>>>>> test.txt
+=======
+one day a wolf jump upon the jackle
+when that fox start running than the jackle was so nervous that she didn't know .what's going on 
+>>>>>>> test.txt
+=======
+one day a wolf jump upon the jackle
+when that fox start running than the jackle was so nervous that she didn't know .what's going on 
+>>>>>>> test.txt
+=======
+lets add new line 
+<<<<<<< HEAD
+lets check stash function
+this is another page for stash again 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+
+<<<<<<< HEAD
+roll 
+<<<<<<< HEAD
+1 
+11 
+=======
+>>>>>>> parent of 2d246f9... for demo,test,testmaster
+=======
+>>>>>>> parent of e3b157a... 	modified:   demo.txt
+=======
+lets check stash function
+this is another page for stash again 
+>>>>>>> Stashed changes
+=======
+lets check stash function
+this is another page for stash again 
+>>>>>>> master
+>>>>>>> Stashed changes
