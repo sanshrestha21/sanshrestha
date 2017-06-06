@@ -1,2 +1,22 @@
 this is new world 
+<<<<<<< HEAD
 this is for stash 
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+ 
+<<<<<<< HEAD
+<<<<<<< HEAD
+3 
+33 
+=======
+>>>>>>> parent of 2d246f9... for demo,test,testmaster
+=======
+>>>>>>> parent of e3b157a... 	modified:   demo.txt
+=======
+this is for stash 
+>>>>>>> Stashed changes
+=======
+this is for stash 
+>>>>>>> Stashed changes
+>>>>>>> master

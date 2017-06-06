@@ -18,6 +18,7 @@ when that fox start running than the jackle was so nervous that she didn't know 
 >>>>>>> test.txt
 =======
 lets add new line 
+<<<<<<< HEAD
 lets check stash function
 this is another page for stash again 
 <<<<<<< Updated upstream
@@ -29,4 +30,25 @@ this is another page for stash again
 =======
 >>>>>>> Stashed changes
 =======
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+
+<<<<<<< HEAD
+roll 
+<<<<<<< HEAD
+1 
+11 
+=======
+>>>>>>> parent of 2d246f9... for demo,test,testmaster
+=======
+>>>>>>> parent of e3b157a... 	modified:   demo.txt
+=======
+lets check stash function
+this is another page for stash again 
+>>>>>>> Stashed changes
+=======
+lets check stash function
+this is another page for stash again 
+>>>>>>> master
 >>>>>>> Stashed changes
